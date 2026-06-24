@@ -22,7 +22,7 @@ document.getElementById('headerjs').innerHTML = `
         <!-- Left links -->
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" href="#">About FeiFei</a>
+            <a class="nav-link active" href="index.html">About FeiFei</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="research.html">Research</a>
